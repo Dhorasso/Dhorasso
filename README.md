@@ -8,7 +8,6 @@ I am Dhorasso Temfack I am a Master's student at AIMS Rwanda in the stream of Da
 <img src="https://komarev.com/ghpvc/?username=gpy1234&style=flat-square&color=blue"
 alt=""/>
 ## About Me
-- &nbsp;
-- &nbsp;
+- &nbsp; I am passionate  by Mathematical modeling and its application
 - &nbsp; Exploring new technologies.
 <!--
